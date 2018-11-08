@@ -24,4 +24,6 @@ int main()
         cout<<endl;
 		}
 system("pause");
+	cout<<"Nama : Niko Aditya "<<endl;
+	cout<<"Nim : 5170411364 ";
 }
